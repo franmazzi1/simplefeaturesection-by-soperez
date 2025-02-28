@@ -1,0 +1,97 @@
+main{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    
+}
+body{
+    background-color: #121826;
+    
+}
+
+
+
+.section{
+    background-color: #212936;
+    border-radius: 20px;
+    padding: 30px;
+}
+#circulo1 {
+    width: 100px;  /* Tamaño del círculo */
+    height: 100px;
+    
+    background-color: #FCEED8; /* Color de fondo */
+    border-radius: 50%; /* Hace que el div sea un círculo */
+    display: flex; /* Para centrar el contenido */
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    font-size: 40px; /* Tamaño del emoji */
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); /* Efecto de sombra */
+}
+#circulo2 {
+    width: 100px;  /* Tamaño del círculo */
+    height: 100px;
+    
+    background-color: #DEE9FC; /* Color de fondo */
+    border-radius: 50%; /* Hace que el div sea un círculo */
+    display: flex; /* Para centrar el contenido */
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    font-size: 40px; /* Tamaño del emoji */
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); /* Efecto de sombra */
+}
+#circulo3 {
+    width: 100px;  /* Tamaño del círculo */
+    height: 100px;
+    
+    background-color: #FBE5E6; /* Color de fondo */
+    border-radius: 50%; /* Hace que el div sea un círculo */
+    display: flex; /* Para centrar el contenido */
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    font-size: 40px; /* Tamaño del emoji */
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); /* Efecto de sombra */
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    
+}
+
+h4{
+    text-align: center;
+    color: white;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style:normal;
+}
+
+h2{
+    text-align: left;
+    color: white;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.outfit-<uniquifier> {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+p{
+    text-align: left;
+    color: white;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
